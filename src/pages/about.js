@@ -29,7 +29,6 @@ const AboutPage = () => (
 
             Despite these challenges, ISKCON continues to be a major force in the spiritual landscape of the world. Its message of love, devotion, and service resonates with people of all backgrounds, and its devotees continue to spread the teachings of Lord Krishna with great enthusiasm and dedication.
         </p>
-        <p>Created by <a href="https://github.com/r-ichard" target="_blank" rel="noopener noreferrer">Richard Raduly</a></p>
       </div>
       <Link to="/">Go back to the homepage</Link>
     </div>
