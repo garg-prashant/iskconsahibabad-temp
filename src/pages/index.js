@@ -14,7 +14,8 @@ const IndexPage = () => (
           <p className="lead text-muted"> Welcome to Iskcon Sahibabad! Website will be launched soon.....</p>
           <StaticImage
             src="../images/iskcon.jpeg"
-            width={300}
+            width={800}
+            height={500}
             quality={95}
             formats={["AUTO", "WEBP"]}
             alt="A Gatsby astronaut"
