@@ -12,16 +12,6 @@ const IndexPage = () => (
         <div className="col-lg-6 col-md-8 mx-auto">
           <h1 className="fw-light">Hare Krishna ! </h1>
           <p className="lead text-muted"> Welcome to Iskcon Sahibabad! Website will be launched soon.....</p>
-          <StaticImage
-            src="../images/iskcon.jpeg"
-            width={800}
-            height={500}
-            quality={95}
-            formats={["AUTO", "WEBP"]}
-            alt="A Gatsby astronaut"
-            className="img-fluid"
-          />
-
         </div>
       </div>
       {/* <div className="row">
