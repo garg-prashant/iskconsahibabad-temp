@@ -10,10 +10,10 @@ const IndexPage = () => (
     <section className="py-5 text-center container">
       <div className="row py-lg-5">
         <div className="col-lg-6 col-md-8 mx-auto">
-          <h1 className="fw-light">Hello world ! </h1>
-          <p className="lead text-muted"> Welcome to this Boostrap 5 Gatsby Starter</p>
+          <h1 className="fw-light">Hare Krishna ! </h1>
+          <p className="lead text-muted"> Welcome to Iskcon Sahibabad! Website will be launched soon.....</p>
           <StaticImage
-            src="../images/gatsby-astronaut.png"
+            src="../images/iskcon.jpeg"
             width={300}
             quality={95}
             formats={["AUTO", "WEBP"]}
@@ -23,10 +23,10 @@ const IndexPage = () => (
 
         </div>
       </div>
-      <div className="row">
+      {/* <div className="row">
         <Link to="/about/" className="btn btn-primary my-2">About</Link>
         <Link to="/page-2/" className="btn btn-secondary my-2">Go to page 2</Link>
-      </div>
+      </div> */}
     </section>
   </Layout>
 )
