@@ -12,7 +12,7 @@ const AboutPage = () => (
         <h1 >Iskcon</h1>
         <p>
             ISKCON, or the International Society for Krishna Consciousness, is a worldwide spiritual organization founded in 1966 by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada, also known as Srila Prabhupada. The organization is based on the teachings of the Bhagavad Gita and the ancient Vedic scriptures of India.
-            
+
             The mission of ISKCON is to spread the teachings of Lord Krishna, promote a spiritual way of life, and establish a society based on love and trust. ISKCON is known for its temples, devotees, and famous Hare Krishna mantra, which has become a cultural icon in many parts of the world.
 
             The philosophy of ISKCON is centered on the principles of bhakti yoga, which is the yoga of devotion. This involves cultivating a loving relationship with God through various spiritual practices such as chanting, meditation, and offering food to the deity. ISKCON teaches that every living being is part of the Supreme Spirit, and by connecting with God, one can attain inner peace and happiness.
@@ -39,5 +39,5 @@ const AboutPage = () => (
 export default AboutPage
 
 export const Head = () => (
-    <Seo title="About Gatsby Bootsrap 5 starter" />
+    <Seo title="About Iskcon" />
 )
