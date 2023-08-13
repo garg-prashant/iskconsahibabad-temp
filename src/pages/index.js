@@ -11,7 +11,7 @@ const IndexPage = () => (
       <div className="row py-lg-5">
         <div className="col-lg-6 col-md-8 mx-auto">
           <h1 className="fw-light">Hare Krishna ! </h1>
-          <p className="lead text-muted"> Welcome to Iskcon Sahibabad! Website will be launched soon.....</p>
+          <p className="lead text-muted"> Welcome to ISKCON Sahibabad! Website will be launched soon.....</p>
         </div>
       </div>
       {/* <div className="row">

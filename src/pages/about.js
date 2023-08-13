@@ -9,7 +9,7 @@ const AboutPage = () => (
     <div className="container  my-5">
 
       <div className="container">
-        <h1 >Iskcon</h1>
+        <h1 >ISKCON</h1>
         <p>
             ISKCON, or the International Society for Krishna Consciousness, is a worldwide spiritual organization founded in 1966 by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada, also known as Srila Prabhupada. The organization is based on the teachings of the Bhagavad Gita and the ancient Vedic scriptures of India.
 
@@ -38,5 +38,5 @@ const AboutPage = () => (
 export default AboutPage
 
 export const Head = () => (
-    <Seo title="About Iskcon" />
+    <Seo title="About ISKCON" />
 )
